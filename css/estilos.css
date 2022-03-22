@@ -10,13 +10,15 @@
     h1 {
         color: #ffffff;
         text-align: right;
+        font-size: 32px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: orangered;
+        background-color: #62b3ea;
     }
     
     h2 {
-        background-color: orangered;
+        background-color: #62b3ea;
         text-align: right;
+        font-size: 25px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         color: #ffffff;
     }
@@ -52,4 +54,15 @@
     .hi-low {
         text-align: center;
         font-size: 16px;
+    }
+    
+    .btn {
+        color: #004aad;
+        background-color: #ffffff;
+    }
+    
+    p {
+        color: aliceblue;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
     }
